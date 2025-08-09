@@ -3,18 +3,18 @@ Built by https://www.blackbox.ai
 
 ---
 
-# Cloud Community Day Kolkata 2025
+# Cloud Community Day  2025
 
 ## Project Overview
-Cloud Community Day Kolkata 2025 is a community-driven event that gathers developers, cloud enthusiasts, and industry experts to share knowledge regarding technology, particularly cloud technology. This event features speakers from notable companies, various sessions, and networking opportunities, all aimed at fostering learning and collaboration in the cloud computing domain.
+Cloud Community Day Chandigarh 2025 is a community-driven event that gathers developers, cloud enthusiasts, and industry experts to share knowledge regarding technology, particularly cloud technology. This event features speakers from notable companies, various sessions, and networking opportunities, all aimed at fostering learning and collaboration in the cloud computing domain.
 
 ## Installation
 To set up this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/cloud-community-day-kolkata-2025.git
-   cd cloud-community-day-kolkata-2025
+   git clone https://github.com/yourusername/cloud-community-day-Chandigarh-2025.git
+   cd cloud-community-day-Chandigarh-2025
    ```
 
 2. Open the `index.html` file in your preferred web browser:
@@ -51,7 +51,7 @@ Other dependencies (like JavaScript libraries) were not specified in the provide
 The project is organized as follows:
 
 ```
-/cloud-community-day-kolkata-2025
+/cloud-community-day-Chandigarh-2025
 │
 ├── index.html           # Main HTML file for the event page
 ├── css
